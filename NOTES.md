@@ -18,3 +18,21 @@ Based on CloudWatch logs (`REPORT` line):
 - **Runtime:** Node.js 22.x
 - **Architecture:** arm64
 - **API URL:** https://x44i9e7wk1.execute-api.us-west-2.amazonaws.com/
+
+## Testing
+You can test the deployed application using the following commands:
+
+- **Home:**
+  ```bash
+  curl https://x44i9e7wk1.execute-api.us-west-2.amazonaws.com/
+  ```
+
+- **Hello API:**
+  ```bash
+  curl https://x44i9e7wk1.execute-api.us-west-2.amazonaws.com/api/hello/Dinh
+  ```
+
+- **Echo API (POST):**
+  ```bash
+  curl -X POST https://x44i9e7wk1.execute-api.us-west-2.amazonaws.com/api/echo -H 'Content-Type: application/json' -d '{"hi":"there"}'
+  ```
