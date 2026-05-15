@@ -11,10 +11,10 @@ This strategy was chosen because it is the most non-intrusive method for adaptin
 
 ## Cold Start Measurement
 Based on CloudWatch logs (`REPORT` line):
-- **Init Duration:** 385.35 ms
+- **Init Duration:** 393.35 ms
 
 ## Deployment Details
-- **Tooling:** AWS SAM
+- **Tooling:** AWS SAM (installed via pip)
 - **Runtime:** Node.js 22.x
 - **Architecture:** arm64
-- **API URL:** https://riqv9gh15i.execute-api.us-west-2.amazonaws.com/
+- **API URL:** https://x44i9e7wk1.execute-api.us-west-2.amazonaws.com/
