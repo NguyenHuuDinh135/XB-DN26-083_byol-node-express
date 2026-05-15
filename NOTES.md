@@ -17,7 +17,7 @@ Based on CloudWatch logs (`REPORT` line):
 - **Tooling:** AWS SAM (installed via pip)
 - **Runtime:** Node.js 22.x
 - **Architecture:** arm64
-- **API URL:** https://x44i9e7wk1.execute-api.us-west-2.amazonaws.com/
+- **API URL:** https://ui4hqr89ha.execute-api.us-west-2.amazonaws.com/
 
 ## Testing
 You can test the deployed application using the following commands:
