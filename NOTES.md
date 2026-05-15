@@ -36,3 +36,6 @@ You can test the deployed application using the following commands:
   ```bash
   curl -X POST https://x44i9e7wk1.execute-api.us-west-2.amazonaws.com/api/echo -H 'Content-Type: application/json' -d '{"hi":"there"}'
   ```
+
+## Visuals
+![AWS Lambda Console](<Screenshot 2026-05-15 at 19-15-18 byol-node-express Functions Lambda.png>)
