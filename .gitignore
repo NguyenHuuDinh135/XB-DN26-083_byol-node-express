@@ -1,0 +1,6 @@
+.terraform/
+lambda.zip
+zip_script.py
+terraform.tfstate*
+node_modules/
+
