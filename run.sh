@@ -1,2 +1,2 @@
 #!/bin/bash
-exec /var/lang/bin/node server.js
+exec node server.js

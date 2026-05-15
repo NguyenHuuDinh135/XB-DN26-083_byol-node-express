@@ -14,7 +14,7 @@ Based on CloudWatch logs (`REPORT` line):
 - **Init Duration:** 385.35 ms
 
 ## Deployment Details
-- **Tooling:** Terraform (v1.15.2)
+- **Tooling:** AWS SAM
 - **Runtime:** Node.js 22.x
 - **Architecture:** arm64
 - **API URL:** https://riqv9gh15i.execute-api.us-west-2.amazonaws.com/
